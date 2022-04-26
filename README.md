@@ -1,6 +1,6 @@
 ### Lou Nardelli
 
-![Cover](67251068_10218658493361176_5663268237836550144_n.jpg)
+
 
 ## Présentation 
 Hey! Voici ma page GitHub ! Je suis tombée dans le code que récemment dans le cadre d'une reconvertion professionnelle. Malheureusement pour ma santé mentale, j'adore! Je vais essayer de publier régulièrement mes projets personnels. En espérant que ça vous plaise ! 
