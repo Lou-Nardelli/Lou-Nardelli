@@ -3,7 +3,7 @@
 
 
 ## Présentation 
-<stong> Hey! Voici ma page GitHub ! </strong> Je suis tombée dans le code que récemment dans le cadre d'une reconvertion professionnelle. Malheureusement pour ma santé mentale, j'adore! Je vais essayer de publier régulièrement mes projets personnels. En espérant que ça vous plaise ! 
+<strong> Hey! Voici ma page GitHub ! </strong> Je suis tombée dans le code que récemment dans le cadre d'une reconvertion professionnelle. Malheureusement pour ma santé mentale, j'adore! Je vais essayer de publier régulièrement mes projets personnels. En espérant que ça vous plaise ! 
 
 ## Compétences 
 Je code principalement en js (vanilla et react). Mais je maîtrise également php !  
