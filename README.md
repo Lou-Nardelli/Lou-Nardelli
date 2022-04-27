@@ -17,9 +17,23 @@ Je code principalement en js (vanilla et react). Mais je maîtrise également ph
 <p/>
 
 ## Mon univers
+<p>
+Mes passions sont le cinéma, mais également la nature, la natation, la cuisine... J'ai hâte de pouvoir créer plein de projets sur mes différentes passions! 
+</p>
+<div display="flex" flex-direction="row">
+<img align="center" src="https://media.giphy.com/media/13cqvMx0yH3eko/giphy.gif" height="200"  />
+<img align="center" src="https://media.giphy.com/media/l0Iy43PHc1KIdZa1O/giphy.gif" height="150"  />
+<img align="center" src="https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif" height="150"  />
+</div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/13cqvMx0yH3eko" width="20%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hayao-miyazaki-ghibli-totoro-13cqvMx0yH3eko"></a></p>
 
 ## Me contacter
+<p>
+Si vous voulez me contacter dans un cadre professionnel n'hésitez pas à regarder mon profil Linkedin. 
+</p>
 
 <a href="https://www.linkedin.com/in/lou-nardelli" target="blank"><img align="center" src="/linkedin.svg" height="100" /></a>
+
+
+<img align="center" src="https://media.giphy.com/media/rl7Q4gxngrxVC/giphy.gif" height="150"  />
+</div>
