@@ -15,3 +15,5 @@ Je code principalement en js (vanilla et react). Mais je maîtrise également ph
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <p/>
+
+<a href="https://www.linkedin.com/in/lou-nardelli" target="blank"><img align="center" src="/linkedin.svg" height="100" /></a>
