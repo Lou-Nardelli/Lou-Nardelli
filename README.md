@@ -18,7 +18,7 @@ Je code principalement en js (vanilla et react). Mais je maîtrise également ph
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Lou-Nardelli&orgs=O-clock-apollo&hide=contribs&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&them=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 
 
