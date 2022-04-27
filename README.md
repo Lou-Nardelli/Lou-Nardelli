@@ -1,4 +1,4 @@
-### Lou Nardelli
+# Lou Nardelli
 
 
 
@@ -34,6 +34,9 @@ Si vous voulez me contacter dans un cadre professionnel n'hésitez pas à regard
 
 <a href="https://www.linkedin.com/in/lou-nardelli" target="blank"><img align="center" src="/linkedin.svg" height="100" /></a>
 
+<p>
+A la revoyure !
+</p>
 
-<img align="center" src="https://media.giphy.com/media/rl7Q4gxngrxVC/giphy.gif" height="150"  />
+<img align="center" src="https://media.giphy.com/media/rl7Q4gxngrxVC/giphy.gif" height="400"  />
 </div>
