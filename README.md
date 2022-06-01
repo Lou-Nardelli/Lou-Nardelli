@@ -4,7 +4,7 @@
 
 ## Présentation 
 <p align="justify">
-Hey! Voici ma page <strong> GitHub ! </strong> Je suis tombée dans le code que récemment dans le cadre d'une reconvertion professionnelle. Malheureusement pour ma santé mentale, j'adore! Je vais essayer de publier régulièrement mes projets personnels. En espérant que ça vous plaise ! 
+Hey! Voici ma page <strong> GitHub ! </strong> Je suis tombée dans le code que récemment dans le cadre d'une reconversion professionnelle. Malheureusement pour ma santé mentale, j'adore! Je vais essayer de publier régulièrement mes projets personnels. En espérant que ça vous plaise ! 
 </p>
 
 ## Compétences
