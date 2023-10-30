@@ -1,16 +1,9 @@
 # Lou Nardelli
 
-
-
-## Présentation 
-<p align="justify">
-Hey! Voici ma page <strong> GitHub ! </strong> Je suis tombée dans le code que récemment dans le cadre d'une reconversion professionnelle. Malheureusement pour ma santé mentale, j'adore! Je vais essayer de publier régulièrement mes projets personnels. En espérant que ça vous plaise ! 
-</p>
-
 ## Compétences
 
 <p align="justify">
-Je code principalement en js (vanilla et react). Mais je maîtrise également php (laravel) et les bases de données (SQL)!
+Je code principalement en TypeScript sur React. 
 </p>
 
 <p align="center">
@@ -28,20 +21,9 @@ Je code principalement en js (vanilla et react). Mais je maîtrise également ph
 
 
 
-## Mon univers
-<p align="justify">
-Mes passions sont le cinéma, mais également la nature, la natation, la cuisine... J'ai hâte de pouvoir créer plein de projets sur mes différentes passions! 
-</p>
-<div display="flex" flex-direction="row">
-<img align="center" src="https://media.giphy.com/media/13cqvMx0yH3eko/giphy.gif" height="150" width="220px" />
-<img align="center" src="https://media.giphy.com/media/l0Iy43PHc1KIdZa1O/giphy.gif" height="150"  />
-<img align="center" src="https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif" height="150"  />
-</div>
-
-
 ## Me contacter
 <p align="justify">
-Si vous voulez me contacter dans un cadre professionnel n'hésitez pas à regarder mon profil Linkedin. 
+Si vous voulez me contacter n'hésitez pas à regarder mon profil Linkedin. 
 </p>
 
 <center>
